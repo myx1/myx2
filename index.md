@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 我的第一个网页，哈哈
 
-You can use the [editor on GitHub](https://github.com/myx1/myx2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+您可以使用(编辑器在GitHub上)(https://github.com/myx1/myx2/edit/master/index.md)维护和减价文件中预览你的网站的内容
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
